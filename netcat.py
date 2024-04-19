@@ -6,7 +6,7 @@ import sys
 import textwrap
 import threading
 
-#Takes commands that we pass it, and does things to it to prepare it for network traversal
+#Takes commands that we pass it, and prepares it for network traversal
 def execute(command):
     command = command.strip()
     if not command:
