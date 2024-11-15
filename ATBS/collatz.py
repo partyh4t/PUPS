@@ -16,8 +16,3 @@ def collatz(number):
             print(number)
 
 collatz(number)
-        
-            
-
-    
-        
