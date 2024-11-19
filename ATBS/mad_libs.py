@@ -17,4 +17,3 @@ for i in range(len(paragraph)):
 
 paragraph = ' '.join(paragraph)
 print(paragraph)
-
