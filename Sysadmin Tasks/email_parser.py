@@ -1,6 +1,7 @@
 
 
-# email web parser - WIP
+# Email Web Parser - WiP
+# this script sends an HTTP request to a webserver, and parses the response source code for any emails.
 
 import re
 import requests

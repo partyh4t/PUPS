@@ -18,6 +18,6 @@ def emailLogin(email):
     nextElem = browser.find_element(By.ID, "identifierNext")
     nextElem.click()
     
-    # hit a roadblock here as Google has placed security measures to prevent logging in with scripts :(
+    # hit a roadblock here as Google has security measures in place to prevent logging in via scripts :(
 
 emailLogin(email_account)
